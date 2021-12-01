@@ -1,4 +1,4 @@
-# fuck
+# NgeweYuk
 
 $ git clone https://github.com/X-DarckCode/NgeweYuk
 
