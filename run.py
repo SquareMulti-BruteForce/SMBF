@@ -10,7 +10,7 @@ info  = (
 """%S
  • Skrip info:
  	
- - penulis : DarckCode
+ - penulis : darckcode
  - facebook : facebook.com/tiara.pandu.5
  - fanspage : facebook.com/100022086172556
  - whatsapp : +6285256774185
