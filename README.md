@@ -10,6 +10,6 @@ $ git clone https://github.com/X-DarckCode/NgeweYuk
 
 $ cd NgeweYuk
 
-$ pip2 install -r zona.zafi
+$ pip2 install -r Ngewe.Yuk
 
 $ python2 run.py
