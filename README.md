@@ -1,15 +1,8 @@
-# X-DarckCode
-
-$ pkg update && pkg upgrade
-
-$ pkg install python
-
-$ pkg install git
-
-$ git clone https://github.com/X-DarckCode/NgeweYuk
-
-$ cd NgeweYuk
-
-$ pip2 install -r Ngewe.Yuk
-
-$ python run.py
+## Installation
+$ pkg update && pkg upgrade <br>
+$ pkg install python2 <br>
+$ pkg install git <br>
+$ git clone https://github.com/X-DarckCode/NgeweYuk <br>
+$ cd NgeweYuk <br>
+$ pip2 install -r Ngewe.Yuk <br>
+$ python2 run.py <br>
