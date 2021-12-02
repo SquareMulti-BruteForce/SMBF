@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # pengkodean=utf-8
-# coding DarckCode
+# coding darckcode
 # Catatan : jangan di ubah lagi! nanti error, script udah enak
 # Tim kode sumber terbuka | ngotak dikit cok jangan jual di jual belikan
 
