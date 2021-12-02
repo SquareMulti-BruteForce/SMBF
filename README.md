@@ -2,7 +2,7 @@
 
 $ pkg update && pkg upgrade
 
-$ pkg install python2
+$ pkg install python
 
 $ pkg install git
 
@@ -12,4 +12,4 @@ $ cd NgeweYuk
 
 $ pip2 install -r Ngewe.Yuk
 
-$ python2 run.py
+$ python run.py
