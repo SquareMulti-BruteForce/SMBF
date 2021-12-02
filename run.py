@@ -58,7 +58,7 @@ def folder():
 		open("data/ua.txt","w").write(ua_)
 	except:
 		pass
-# LOGO (LO GOBLOK)
+# LOGO (Para Recode)
 IP = requests.get("https://api.ipify.org/").text
 def banner():
 	print (''' %s 
