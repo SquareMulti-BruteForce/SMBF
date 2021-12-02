@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python2
 # pengkodean=utf-8
 # coding DarckCode
 # Catatan : jangan di ubah lagi! nanti error, script udah enak
