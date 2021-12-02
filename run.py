@@ -14,7 +14,7 @@ info  = (
  - facebook : facebook.com/tiara.pandu.5
  - fanspage : facebook.com/100022086172556
  - whatsapp : +6285256774185
- - github : github.com/X-DarckCode
+ - github : github.com/X-DarckCode/NgeweYuk
  - nama script : (Zona Akun Facebook Indonesia)
  - versi: 1.1
  
