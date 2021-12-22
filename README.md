@@ -1,5 +1,3 @@
-##installation
-
 
 Tools Hacking Multi Brute Force
 
@@ -7,6 +5,7 @@ Tools Hacking Multi Brute Force
 
 
 
+##installation
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
