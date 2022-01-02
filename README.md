@@ -8,7 +8,7 @@ Tools Hacking Multi Brute Force
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/X-DarckCode/SMBF <br>
+$ git clone https://github.com/SquareMulti-BruteForce/SMBF <br>
 $ cd SMBF <br>
 $ pip2 install -r SMBF <br>
 $ python2 run.py <br>
